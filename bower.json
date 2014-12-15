@@ -1,0 +1,17 @@
+{
+    "name": "SassyBoots",
+    "version": "0.0.1",
+    "authors": [
+        "Michael Barlock <mbarlock@us.ibm.com>"
+    ],
+    "private": true,
+    "ignore": [
+        "node_modules",
+        "bower_components",
+        ".build"
+    ],
+    "devDependencies": {
+        "bootstrap": "~3.3.1",
+        "bootstrap-sass-official": "~3.3.1"
+    }
+}
