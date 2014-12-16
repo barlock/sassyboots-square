@@ -11,6 +11,11 @@
 @import "square/mixins/colors";
 @import "square/mixins/variables";
 
+
 @import "../bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap";
 
-// Other customizations go here
+// Mixins
+@import "square/mixins/buttons";
+
+//Styles
+@import "square/buttons";
